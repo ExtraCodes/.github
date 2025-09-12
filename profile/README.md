@@ -2,7 +2,7 @@
 
 Welcome to the **ExtraCodes** organization! This platform is designed as a dedicated space for members of our **Discord community** to share code snippets, ideas, and resources. It functions similarly to GitHub Gists but is specifically tailored to meet the needs of our community. Whether you're a seasoned developer or just getting started, **ExtraCodes** is here to help you collaborate, share knowledge, and grow together.
 
-## What We Offer
+## About ExtraCodes Website
 
 ### 🚀 **User-Friendly Interface**
 Our platform features a clean, intuitive design that allows users to easily create, edit, and manage their gists. Sharing code and ideas has never been easier or more accessible.
