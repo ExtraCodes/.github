@@ -97,7 +97,7 @@ Your code is safe with us:
 
 ## 💻 Command-Line Interface (CLI)
 
-ExtraCodes comes with a powerful **Git-like CLI tool** (`xtr-cli`) that lets you manage your code repositories from the command line, just like Git!
+ExtraCodes comes with a powerful **CLI tool** (`xtr-cli`) that lets you manage your code repositories from the command line, just like Git!
 
 ### Install the CLI
 
@@ -129,7 +129,7 @@ xtr pull
 
 ### CLI Features
 
-- **Git-like Commands** - Familiar commands like `add`, `push`, `pull`, `clone`
+- **Commands** - Familiar commands like `add`, `push`, `pull`, `clone`
 - **SSH Key Authentication** - Use SSH keys for secure access
 - **Remote Management** - Manage multiple remotes like Git
 - **File Staging** - Stage files before pushing
