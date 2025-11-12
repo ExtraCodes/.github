@@ -162,8 +162,7 @@ Create and share your projects, get feedback, and iterate. ExtraCodes is the per
 - ✅ Multi-file support with folders
 - ✅ Syntax highlighting for 100+ languages
 - ✅ Markdown README support
-- ✅ Version history and commits
-- ✅ Public and private codes
+- ✅ Public codes
 - ✅ Team collaboration
 - ✅ CLI tools for automation
 
