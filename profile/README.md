@@ -139,17 +139,6 @@ Learn more: [CLI Documentation](./xtr-cli/README.md)
 
 ---
 
-## 🤖 Discord Bot Integration
-
-Our Discord bot brings ExtraCodes directly to your Discord server:
-
-- **Search Codes** - Search for code snippets without leaving Discord
-- **Get Info** - Get information about users, teams, or codes
-- **Staff Commands** - Platform management tools for staff members
-- **Support System** - Create and manage support tickets
-
----
-
 ## 🎯 Why Join ExtraCodes?
 
 ### 🤝 Collaborate
