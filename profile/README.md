@@ -97,7 +97,7 @@ Your code is safe with us:
 
 ## 💻 Command-Line Interface (CLI)
 
-ExtraCodes comes with a powerful **CLI tool** (`xtr-cli`) that lets you manage your code repositories from the command line, just like Git!
+ExtraCodes comes with a powerful **CLI tool** (`xtr-cli`) that lets you manage your code repositories from the command line.
 
 ### Install the CLI
 
@@ -131,11 +131,22 @@ xtr pull
 
 - **Commands** - Familiar commands like `add`, `push`, `pull`, `clone`
 - **SSH Key Authentication** - Use SSH keys for secure access
-- **Remote Management** - Manage multiple remotes like Git
+- **Remote Management** - Manage multiple remotes
 - **File Staging** - Stage files before pushing
 - **Commit History** - Track changes with commit messages
 
 Learn more: [CLI Documentation](./xtr-cli/README.md)
+
+---
+
+## 🤖 Discord Bot Integration
+
+Our Discord bot brings ExtraCodes directly to your Discord server:
+
+- **Search Codes** - Search for code snippets without leaving Discord
+- **Get Info** - Get information about users, teams, or codes
+- **Staff Commands** - Platform management tools for staff members
+- **Support System** - Create and manage support tickets
 
 ---
 
@@ -162,7 +173,8 @@ Create and share your projects, get feedback, and iterate. ExtraCodes is the per
 - ✅ Multi-file support with folders
 - ✅ Syntax highlighting for 100+ languages
 - ✅ Markdown README support
-- ✅ Public codes
+- ✅ Version history and commits
+- ✅ Public and private codes
 - ✅ Team collaboration
 - ✅ CLI tools for automation
 
@@ -235,7 +247,6 @@ Feel free to open an issue or submit a pull request to help improve the platform
 - **Website**: [extra.codes](https://extra.codes)
 - **Discord Community**: [Join our server](https://discord.gg/zU4DtNUCnf)
 - **CLI Package**: [npm - xtr-cli](https://www.npmjs.com/package/xtr-cli)
-- **API**: [api.extra.codes](https://api.extra.codes)
 
 ---
 
@@ -259,6 +270,6 @@ ExtraCodes is built with modern technologies:
 
 Made with ❤️ by [ExtraCodes Team](https://extra.codes)
 
-[⭐ Star us on GitHub](https://github.com/yourusername/NewFix) • [🐛 Report Bug](https://github.com/yourusername/NewFix/issues) • [💡 Request Feature](https://github.com/yourusername/NewFix/issues)
+<!-- [⭐ Star us on GitHub](https://github.com/ExtraCodes/NewFix) • [🐛 Report Bug](https://github.com/ExtraCodes/NewFix/issues) • [💡 Request Feature](https://github.com/ExtraCodes/NewFix/issues) -->
 
 </div>
